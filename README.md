@@ -1,4 +1,3 @@
-# sebastian.github.io
 # Student
 
 ### Edukacija

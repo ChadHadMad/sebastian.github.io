@@ -1,8 +1,8 @@
 # Student
 
 ### Edukacija
-Student Informatike na fakultetu infromatike i digitalnih tehnologija\
-Tehničar za računalstvo u srednjoj školi elektrotehnike i računalstva
+Fakultetu infromatike i digitalnih tehnologija\
+Sredna škola elektrotehnike i računalstva
 
 ### Alati
 - Photoshop
